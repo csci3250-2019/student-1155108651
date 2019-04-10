@@ -2,9 +2,9 @@
 ## *CSCI/2*
 Experience in GitHub: 0 :new_moon_with_face:
 
-| CSCI course taken  | When I took the course? |
+| CSCI course taken  | Grade |
 | - | - |
-| CSCI1130  | Year2 sem1 |
+| CSCI1130  | You guess? :sunglasses: |
 
 My academic goal
 - [x] Learn C
