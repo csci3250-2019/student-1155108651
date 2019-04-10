@@ -22,5 +22,6 @@ My academic goal
 Git init: ![alt text](git_init.png)
 Editing readme.md: ![alt text](vim.png)
 Add and commit: ![alt text](add_commit.png)
+Push: ![alt text](push.png)
 
 
